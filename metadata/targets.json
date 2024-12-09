@@ -1,13 +1,13 @@
 {
  "signatures": [
   {
-   "keyid": "ea77a2a9ed61a83828b738bd833183f4938bae9251a520a1624baeedc158dc07",
-   "sig": "045c5c937fa6c4fc8adaa4fce9503843e929bfc4b9c64d5beef6c4b5982e1a81d910abefcfeec5c9eec3ac819bfd4cf7ecc2486b7de76488a24bf8bee61e270b"
+   "keyid": "7bff5a98d9fc20204537ba52639574eaf37ab0be9988cbac9e2e26b115d04727",
+   "sig": "66c2d6b7a2b9f339d6da3f57773a9a7431205a4d7b72d7aadb35ac2dd1740ff1a601b26879b61e3e955ad10f7c2e21c283a3491726d9af769814b259681cfd07"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-12-09T17:45:35Z",
+  "expires": "2025-12-09T17:49:51Z",
   "spec_version": "1.0.31",
   "targets": {
    "DavantStudio-1.1.0rc10.tar.gz": {
@@ -18,11 +18,11 @@
      "user": null
     },
     "hashes": {
-     "sha256": "f30222dafc2b32bed0c03941d949d9a4f6131fb3eb2096cbe8d07cd02c6a312c"
+     "sha256": "7ebb13067c5bcc821b480386ab1f555a428595a627ae1daef8d0766d5adb8aec"
     },
     "length": 52539843
    }
   },
-  "version": 1
+  "version": 2
  }
 }
