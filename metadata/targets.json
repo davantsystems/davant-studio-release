@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "ea77a2a9ed61a83828b738bd833183f4938bae9251a520a1624baeedc158dc07",
+   "sig": "da13ffd4522fd9e202b425950821d9392a8927f8f7b6eeedb2dcd2d94df65abf09f9b1e698a153bc5caf6f1920d7bfb774f5438d3ce946cae2a8606e3a936d0e"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2025-12-09T06:12:19Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "DavantStudio-1.1.0rc9.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "3c2c6a58190b8408f33e6a9617f9f4d2c793c43999e3a82d6702fcaf3dd00c9b"
+    },
+    "length": 52539842
+   }
+  },
+  "version": 2
+ }
+}
