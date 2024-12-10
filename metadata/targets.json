@@ -2,15 +2,15 @@
  "signatures": [
   {
    "keyid": "52ab1a3922f7c931c7eea067175ae1240e080ea041f4c6095b6c6d3fb23ffac8",
-   "sig": "9be1ce85a335c9d73981c6db7dd41e69131497ba78503f3302ada5e5106063d08e4baf6ee25723e4c90ff502174ab432fd38952215d40c465d9ef756df6c960c"
+   "sig": "685814d1d3b4aa3338542c3eca24537532cd7c5823f950d6a3c9cc59337a74eca4d6695b073b3c9688c66367c63b269b5029b754619699b4ac9729e0f29e9e0f"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-12-09T18:00:32Z",
+  "expires": "2025-12-10T08:02:02Z",
   "spec_version": "1.0.31",
   "targets": {
-   "DavantStudio-1.1.0rc10.tar.gz": {
+   "DavantStudio-1.1.0rc9.tar.gz": {
     "custom": {
      "tufup": {
       "required": false
@@ -18,9 +18,9 @@
      "user": null
     },
     "hashes": {
-     "sha256": "ec9f574b3dd98d333cbfed6e032f34cecf5ccb3e877a55508b9776eea05c0686"
+     "sha256": "c80be37777412807a7d5931c1fb54a4052a8d59457cdc04dd543a9853f44afb2"
     },
-    "length": 52540160
+    "length": 52520508
    }
   },
   "version": 1
