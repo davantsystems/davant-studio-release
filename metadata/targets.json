@@ -1,0 +1,54 @@
+{
+ "signatures": [
+  {
+   "keyid": "1eb69146f9215593a0cefd71b9ab088f9492c43ec11cca470323acd412c9f68a",
+   "sig": "7718abd375f8639004428abc4f0f364c4546d08950cddb22292b7018425d9c67287a5a8de1f3c193f391d7949c476380450034c7ab271a2d9c87a0547b645209"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2025-12-10T18:48:08Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "DavantStudio-1.1.0rc8.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "d766463c930e9d320ef73b76d91c600f1e199c0035150edcbd2ddbfb9f3dde7a"
+    },
+    "length": 49323418
+   },
+   "DavantStudio-1.1.0rc9.patch": {
+    "custom": {
+     "tufup": {
+      "tar_hash": "9e4f66fdac68f60108e5c3c2aea16a68e65005d0cc447488c5796db6c06011b1",
+      "tar_hash_algorithm": "sha256",
+      "tar_size": 189624320
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "c8862f8a4e2a6515bb3ed670308cb59081f55c79f4acfe7c38cd28ea738fe743"
+    },
+    "length": 237129
+   },
+   "DavantStudio-1.1.0rc9.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "a13d6d6543d0f5745d31f2317403b6e42988ca4f3d7eb0c542d178d01fff5a4d"
+    },
+    "length": 49323807
+   }
+  },
+  "version": 2
+ }
+}
