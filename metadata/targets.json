@@ -2,14 +2,66 @@
  "signatures": [
   {
    "keyid": "1eb69146f9215593a0cefd71b9ab088f9492c43ec11cca470323acd412c9f68a",
-   "sig": "209281333b85ffbdd73e5bda9ce7dde17d355bff421bfd23287f3b3c0c051661270f481a1420dafb23b9c7cead3e644d74574c0cf5722effde53e47a54f7a90f"
+   "sig": "64613275869ecc2df8faafbb5bc44c170bead7689db2fce857929223c8ac2046bd936d59f535185c3558b89e739adeb20d110afc374c20193f403eab745f9f0c"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-12-10T08:13:48Z",
+  "expires": "2025-12-10T09:48:04Z",
   "spec_version": "1.0.31",
   "targets": {
+   "DavantStudio-1.1.0rc10.patch": {
+    "custom": {
+     "tufup": {
+      "tar_hash": "3f0433222d3f2fe78a1288b437982cea11c58b2c7e5c20fd887d0d50fee21e8b",
+      "tar_hash_algorithm": "sha256",
+      "tar_size": 61020160
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "63de557f05e87930546bfc67c845dc8f09d738e3df7388b570020510c26d2e85"
+    },
+    "length": 178
+   },
+   "DavantStudio-1.1.0rc10.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "91b9b3b8acf0088d4ffb07c2ae024b02faee47d931d44876a4715ca875bd66d8"
+    },
+    "length": 52519948
+   },
+   "DavantStudio-1.1.0rc11.patch": {
+    "custom": {
+     "tufup": {
+      "tar_hash": "5d3621021706cb32b76a83fb650853f7b9d1131d1495ef863bf5a411f172f71d",
+      "tar_hash_algorithm": "sha256",
+      "tar_size": 188579840
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "995700b8368616cce62750b09639eb920791eed72f37397b60e263f9af757148"
+    },
+    "length": 38533580
+   },
+   "DavantStudio-1.1.0rc11.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "58f2d0350f489e9bd3d581f6f500e3a16bb4d1a1f28d311f1ddb49c613a97afa"
+    },
+    "length": 48762178
+   },
    "DavantStudio-1.1.0rc9.tar.gz": {
     "custom": {
      "tufup": {
@@ -23,6 +75,6 @@
     "length": 52519947
    }
   },
-  "version": 2
+  "version": 4
  }
 }
