@@ -2,14 +2,40 @@
  "signatures": [
   {
    "keyid": "1eb69146f9215593a0cefd71b9ab088f9492c43ec11cca470323acd412c9f68a",
-   "sig": "aacc1f92b189354a2ab3d9959713c08c0d5b25b55d14612ec20574416c7bf4e0a17022b4ab8a5c5dd43a3f1ffaa8337bc01c4148caf6f0101fa0cc56f1029406"
+   "sig": "0268cd073f57a363fa88192290dc2380b535614de9bb2cdcf852340cbf73b40cb1602226df412f4b8320004e5384ba45b8fa0b2aa9a497ad99d8b3ae86daab08"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-12-11T01:52:37Z",
+  "expires": "2026-01-06T11:28:29Z",
   "spec_version": "1.0.31",
   "targets": {
+   "DavantStudio-1.1.0.patch": {
+    "custom": {
+     "tufup": {
+      "tar_hash": "8fa7fafe90b008d26bf4c0e7a7de850ac3ef6d9b81d4299adfce86c03458292d",
+      "tar_hash_algorithm": "sha256",
+      "tar_size": 189644800
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "1b97a9e842283cb4f7c6158e65049ca0fd2aa3552e6db5a02efe3b6fc1f149a3"
+    },
+    "length": 185218
+   },
+   "DavantStudio-1.1.0.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "9d3fd229bf8af4d70a67ca4bb80cd33977d92c2a1f7b26191a6aa6556b5e2a00"
+    },
+    "length": 49251584
+   },
    "DavantStudio-1.1.0rc11.tar.gz": {
     "custom": {
      "tufup": {
@@ -47,8 +73,34 @@
      "sha256": "48ffffbdfcd87e291ad7eef0de7ead57ac7d7dde512aa332ebd6a4acc8ee3c3e"
     },
     "length": 49325120
+   },
+   "DavantStudio-1.1.0rc13.patch": {
+    "custom": {
+     "tufup": {
+      "tar_hash": "b4eec22f6989771dbc3de6775c0a6cbfec8c3a8c8c24061b42407bc66af932e5",
+      "tar_hash_algorithm": "sha256",
+      "tar_size": 189644800
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "0df844e4b32e3bee7607f57e524e406953ef30ce74d393a7ad299f31498e57b7"
+    },
+    "length": 278068
+   },
+   "DavantStudio-1.1.0rc13.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "87e7440c35cca5a6dfa25eb445161a88cbdb9023f9a09a5975c7371e5a21ad28"
+    },
+    "length": 49238049
    }
   },
-  "version": 2
+  "version": 4
  }
 }
